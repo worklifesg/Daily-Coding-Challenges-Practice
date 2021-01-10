@@ -32,4 +32,10 @@
 * Y = [0,0.6931,1.0986,1.3863,1.6094]
 * The answer should be 4.0414
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
+***Links:***
+
+[Problem Understanding and Algorithm Flow](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/blob/main/Mathematics/Program%201%20-%20Simpson's%20Rule/1_Problem_Understanding_Algorithm.md)
+
+[Program Code](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/blob/main/Mathematics/Program%201%20-%20Simpson's%20Rule/2_Program1_Code.py)
