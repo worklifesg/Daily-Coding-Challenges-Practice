@@ -1,4 +1,4 @@
-### Daily-Coding-Challenges-Practice ![](https://img.shields.io/badge/UPDATED-09/Jan/2021-yellow)
+### Daily-Coding-Challenges-Practice ![](https://img.shields.io/badge/UPDATED-10/Jan/2021-yellow)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](https://img.shields.io/badge/Python-3.8.3-orange) ![](https://img.shields.io/badge/VSCode-1.52.1-blue) ![](https://img.shields.io/badge/repl.it-IDE-green) 
