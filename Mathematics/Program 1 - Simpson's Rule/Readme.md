@@ -1,4 +1,4 @@
-### Program 1 - Coding Practice
+### Program 1 - Coding Practice ![](https://img.shields.io/badge/Level-Medium-yellow)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
