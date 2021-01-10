@@ -44,5 +44,5 @@ And so on...So the to implement this function we need to divide our dataset is a
 - [ ] Find ![1](https://latex.codecogs.com/gif.latex?\Delta&space;x)  between consecutive x datapoints using ```zip``` method
 - [ ] Create a tuple for y values as indicated above
 - [ ] Compute the function ![](http://latex.codecogs.com/gif.latex?\dpi{110}&space;\frac{[f(x_{2i-2})&plus;4f(x_{2i-1})&plus;f(x_{2i})]}{3})
-- [ ] Multiply the above function with the ![1](https://latex.codecogs.com/gif.latex?\Delta&space;x) and store the result
+- [ ] Multiply the above function with the ![1](https://latex.codecogs.com/gif.latex?\Delta&space;x) for every index (```for```) and store the result
 - [ ] Return the final computed result
