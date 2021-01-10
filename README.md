@@ -16,3 +16,26 @@ The challenges will be ***done on daily basis*** and will be given in following 
 - [ ]  Code (with comments)
 - [ ]  Performance Measurement (Complexity discussion)
 
+#### Challenges (Data Posted-wise)
+
+-# | Challenge  | Specialization | Level | Date |
+| ------------- | ------------- | ------------- | -------------- | ------------- |
+| 1 | [Simpson's Rule](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/tree/main/Mathematics/Program%201%20-%20Simpson's%20Rule)  | ![](https://img.shields.io/badge/Mathematics-red) | ![](https://img.shields.io/badge/Medium-yellow)  | ![](https://img.shields.io/badge/2021-09/Jan-green) |
+| 2 | [Simple linear regression](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/tree/main/Data%20Science/Program%201%20-%20Linear%20Regression)  | ![](https://img.shields.io/badge/Data_Science-blue)  | ![](https://img.shields.io/badge/Easy-yellow)  | ![](https://img.shields.io/badge/2021-10/Jan-green)  |
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Challenges (Specialization-wise)
+
+* **Mathematics**
+
+-# | Challenge | Level | Date |
+| ------------- | ------------- | ------------- | -------------- |
+| 1 | [Simpson's Rule](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/tree/main/Mathematics/Program%201%20-%20Simpson's%20Rule) | ![](https://img.shields.io/badge/Medium-yellow)  | ![](https://img.shields.io/badge/2021-09/Jan-green)  |
+
+* **Data Science**
+
+-# | Challenge   | Level | Date |
+| ------------- | ------------- | ------------- | -------------- |
+| 1 | [Simple linear regression](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/tree/main/Data%20Science/Program%201%20-%20Linear%20Regression) | ![](https://img.shields.io/badge/Easy-yellow) | ![](https://img.shields.io/badge/2021-10/Jan-green) |
+
