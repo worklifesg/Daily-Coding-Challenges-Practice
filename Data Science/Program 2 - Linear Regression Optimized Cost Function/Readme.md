@@ -1,4 +1,4 @@
-### Program 2 - Coding Practice ![](https://img.shields.io/badge/Level-Easy-green)
+### Program 2 - Coding Practice ![](https://img.shields.io/badge/Level-Medium-yellow)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
