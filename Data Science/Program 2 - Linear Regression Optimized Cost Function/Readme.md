@@ -20,3 +20,9 @@
 * Result is: ```1.44```
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
+
+***Links:***
+
+[Problem Understanding and Algorithm Flow](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/blob/main/Data%20Science/Program%202%20-%20Linear%20Regression%20Optimized%20Cost%20Function/1_Problem_Understanding_Algorithm.md)
+
+[Program Code](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/blob/main/Data%20Science/Program%202%20-%20Linear%20Regression%20Optimized%20Cost%20Function/2_Program_Code.py)
