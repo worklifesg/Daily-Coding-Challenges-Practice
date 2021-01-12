@@ -7,8 +7,8 @@
 This repository is dedicated to solve various levels of coding challenges in Python. Specifically challenges related to 
 
 * Mathematical (statistics and probability, algebra, calculas)
-* Problem-solving based problems
 * Data science based problems
+* Data Structures & Algorithms
 
 The challenges will be ***done on daily basis*** and will be given in following criteria:
 - [ ]  Problem Statement
