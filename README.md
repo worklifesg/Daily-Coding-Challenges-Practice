@@ -1,7 +1,7 @@
-### Daily-Coding-Challenges-Practice ![](https://img.shields.io/badge/UPDATED-13/Jan/2021-yellow)
+### Daily-Coding-Challenges-Practice 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://img.shields.io/badge/Python-3.8.3-orange) ![](https://img.shields.io/badge/VSCode-1.52.1-blue) ![](https://img.shields.io/badge/repl.it-IDE-green) 
+![](https://img.shields.io/badge/Python-3.8.3-orange) ![](https://img.shields.io/badge/VSCode-1.52.1-blue) ![](https://img.shields.io/badge/repl.it-IDE-green) ![](https://img.shields.io/badge/UPDATED-13/Jan/2021-yellow) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=worklifesg.Daily.Coding.Challenges.Practice)
 
 
 This repository is dedicated to solve various levels of coding challenges in Python. Specifically challenges related to 
