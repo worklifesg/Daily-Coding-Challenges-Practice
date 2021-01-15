@@ -1,7 +1,7 @@
 ### Daily-Coding-Challenges-Practice 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://img.shields.io/badge/Python-3.8.3-orange) ![](https://img.shields.io/badge/VSCode-1.52.1-blue) ![](https://img.shields.io/badge/repl.it-IDE-green) ![](https://img.shields.io/badge/UPDATED-13/Jan/2021-yellow) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=worklifesg.Daily.Coding.Challenges.Practice)
+![](https://img.shields.io/badge/Python-3.8.3-orange) ![](https://img.shields.io/badge/VSCode-1.52.1-blue) ![](https://img.shields.io/badge/repl.it-IDE-green) ![](https://img.shields.io/badge/UPDATED-15/Jan/2021-yellow) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=worklifesg.Daily.Coding.Challenges.Practice)
 
 
 This repository is dedicated to solve various levels of coding challenges in Python. Specifically challenges related to 
@@ -25,6 +25,7 @@ The challenges will be ***done on daily basis*** and will be given in following 
 | 3 | [Optimized Cost Function](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/tree/main/Data%20Science/Program%202%20-%20Linear%20Regression%20Optimized%20Cost%20Function)  | ![](https://img.shields.io/badge/Data_Science-blue)  | ![](https://img.shields.io/badge/Medium-yellow)  | ![](https://img.shields.io/badge/2021-11/Jan-green)  |
 | 4 | [Split values by class](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/tree/main/General%2C%20DS%2C%20Algo/Progam%201%20-%20Split%20values%20by%20class)  | ![](https://img.shields.io/badge/General,DS,Algo-purple)  | ![](https://img.shields.io/badge/Easy-purple)  | ![](https://img.shields.io/badge/2021-12/Jan-green)  |
 | 5 | [Sort Transformed Array](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/tree/main/General%2C%20DS%2C%20Algo/Program%202%20-%20Sort%20Transformed%20Array)  | ![](https://img.shields.io/badge/General,DS,Algo-purple)  | ![](https://img.shields.io/badge/Medium-yellow)  | ![](https://img.shields.io/badge/2021-13/Jan-green)  |
+| 6 | [Random Dataset Generation](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/tree/main/Data%20Science/Program%203%20-%20Random%20Dataset%20Generation)  | ![](https://img.shields.io/badge/Data_Science-blue)   | ![](https://img.shields.io/badge/Medium-yellow)  | ![](https://img.shields.io/badge/2021-15/Jan-green)  |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -42,6 +43,7 @@ The challenges will be ***done on daily basis*** and will be given in following 
 | ------------- | ------------- | ------------- | -------------- |
 | 1 | [Simple linear regression](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/tree/main/Data%20Science/Program%201%20-%20Linear%20Regression) | ![](https://img.shields.io/badge/Easy-purple) | ![](https://img.shields.io/badge/2021-10/Jan-green) |
 | 2 | [Optimized Cost Function](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/tree/main/Data%20Science/Program%202%20-%20Linear%20Regression%20Optimized%20Cost%20Function) | ![](https://img.shields.io/badge/Medium-yellow)  | ![](https://img.shields.io/badge/2021-11/Jan-green)  |
+| 3 | [Random Dataset Generation](https://github.com/worklifesg/Daily-Coding-Challenges-Practice/tree/main/Data%20Science/Program%203%20-%20Random%20Dataset%20Generation) | ![](https://img.shields.io/badge/Medium-yellow)  | ![](https://img.shields.io/badge/2021-15/Jan-green)  |
 
 
 * **General, DS & Algorithms**
