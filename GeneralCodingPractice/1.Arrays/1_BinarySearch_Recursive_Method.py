@@ -31,3 +31,33 @@ search(arr, 99) = 8
 search(arr, 110) = -1
 search(arr, 176) = 14
 '''
+
+''' Using LeetCode'''
+
+class Solution:
+    def search(self, nums: List[int], target: int) -> int:
+        return self.binary_search(nums, target, 0, len(nums) - 1)
+    
+    def binary_search(self, nums, target, low, high):
+        middle = low + (high - low) // 2
+        if nums[middle] == target:
+            return middle
+        elif low > high:
+            return -1
+        elif nums[middle] < target:
+            return self.binary_search(nums, target, middle + 1, high)
+        else:
+            return self.binary_search(nums, target, low, middle - 1)
+
+'''
+Your input
+[-1,0,3,5,9,12]
+9
+Output
+4
+Expected
+4
+
+Runtime: 228 ms, faster than 90.85% of Python3 online submissions for Binary Search.
+Memory Complexity - O(log n)
+'''
