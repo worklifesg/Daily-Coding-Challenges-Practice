@@ -10,7 +10,7 @@ class Solution:
         
         #iterative loop for binary search with rotated array using start = pivot+1 and end=pivot-1 depending upon cases
         while start<=end:
-            pivot = start + (end-start)//1
+            pivot = start + (end-start)//2
             
             #case 1 when target value reaches middle value and is the pivot value
             if nums[pivot]==target:
